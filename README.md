@@ -7,6 +7,16 @@ Check out some of my work in the links below! Let's build something great togeth
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/jciterceros)](https://github.com/jciterceros)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"&link=https://www.youtube.com/@fernandoterceros5865)](https://www.youtube.com/@fernandoterceros5865)
 
+## 🔭 About Me
+
+I’m a passionate backend developer with a focus on:
+
+- 🛠️ **Java Spring Boot, NestJs** (REST APIs)
+- 🖥️ **Design Patterns**: Creationals, Structurals, Behaviorals
+- ⚙️ **Other Tech**: Node.js, NestJs, React.js, Angular, TypeScript
+- ✅ **Testing Practices**: TDD (Test-Driven Development), BDD (Behavior-Driven Development), QA (Quality Assurance) with Cucumber and Selenium
+- 📚 Constantly learning and improving my skills
+
 ## 🛠️ My Technical Proficiencies
 
 ## Frontend:
@@ -222,16 +232,6 @@ Check out some of my work in the links below! Let's build something great togeth
 <p align="left">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jciterceros&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
-
-## 🔭 About Me
-
-I’m a passionate backend developer with a focus on:
-
-- 🛠️ **Java Spring Boot, NestJs** (REST APIs)
-- 🖥️ **Design Patterns**: Creationals, Structurals, Behaviorals
-- ⚙️ **Other Tech**: Node.js, NestJs, React.js, Angular, TypeScript
-- ✅ **Testing Practices**: TDD (Test-Driven Development), BDD (Behavior-Driven Development), QA (Quality Assurance) with Cucumber and Selenium
-- 📚 Constantly learning and improving my skills
 
 ---
 
