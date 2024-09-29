@@ -6,6 +6,7 @@ Check out some of my work in the links below! Let's build something great togeth
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-flores-terceros-83486625/)](https://www.linkedin.com/in/fernando-flores-terceros-83486625/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/jciterceros)](https://github.com/jciterceros)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"&link=https://www.youtube.com/@fernandoterceros5865)](https://www.youtube.com/@fernandoterceros5865)
+[![Website Badge](https://img.shields.io/badge/Website-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://www.jciterceros.com.br)](https://www.jciterceros.com.br)
 
 ## 🔭 About Me
 
