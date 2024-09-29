@@ -1,5 +1,3 @@
-<!-- ![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D4D16AQFCRgXnvZebBA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719174331495?e=1733356800&v=beta&t=hpZcx1bYsgMUY_agYAuljTqWxaRepyYWUDk0ZYys4U4) -->
-
 # 👋 Hi, I'm Fernando Terceros! 💻
 
 I started programming for fun and soon found my passion in Node.js and Java backend development. I'm also an aspiring FullStack developer, constantly exploring new tools and frameworks like React.js. Every project is an opportunity to learn and improve, and I love turning ideas into impactful solutions. 
@@ -25,12 +23,12 @@ Check out some of my work in the links below! Let's build something great togeth
         <a href="https://angular.io/"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white"></a>
     </p>
     <p>
-        <strong>Estilos e Design:</strong>&emsp;
+        <strong>Styles and Design:</strong>&emsp;
         <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
         <a href="https://tailwindcss.com/"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white"></a>
     </p>
     <p>
-        <strong>Ferramentas:</strong>&emsp;
+        <strong>Tools:</strong>&emsp;
         <a href="https://vitejs.dev/"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white"></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
         <a href="https://www.figma.com/"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
@@ -231,7 +229,7 @@ I’m a passionate backend developer with a focus on:
 
 - 🛠️ **Java Spring Boot, NestJs** (REST APIs)
 - 🖥️ **Design Patterns**: Creationals, Structurals, Behaviorals
-- ⚙️ **Other Tech**: Node.js, NestJs, React.js, Angular, TypeScript, Cucumber
+- ⚙️ **Other Tech**: Node.js, NestJs, React.js, Angular, TypeScript
 - ✅ **Testing Practices**: TDD (Test-Driven Development), BDD (Behavior-Driven Development), QA (Quality Assurance) with Cucumber and Selenium
 - 📚 Constantly learning and improving my skills
 
