@@ -1,4 +1,4 @@
-![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D4D16AQFCRgXnvZebBA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719174331495?e=1733356800&v=beta&t=hpZcx1bYsgMUY_agYAuljTqWxaRepyYWUDk0ZYys4U4)
+<!-- ![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D4D16AQFCRgXnvZebBA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719174331495?e=1733356800&v=beta&t=hpZcx1bYsgMUY_agYAuljTqWxaRepyYWUDk0ZYys4U4) -->
 
 # 👋 Hi, I'm Fernando Terceros! 💻
 
